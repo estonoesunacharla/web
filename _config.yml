@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "http://mariomerino.uc3m.es"
+url: "https://estonoesunacharla.com"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "http://mariomerino.uc3m.es"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /estonoesunacharla
+baseurl: /
 
 # Google tracking id
 
@@ -22,7 +22,7 @@ google-tracking-id: ""
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 #############
 # HTML Head #
@@ -31,7 +31,7 @@ force-https: False
 lang: "es"
 author: "Celera"
 title: "{ #EstoNoEsUnaCharla }"
-description: "Conversaciones abiertas con expertos en ciencia, tecnología y más, cada mes."
+description: "Conversaciones sobre un tema de ciencia y tecnología cada mes."
 keywords: "dissemination, science, technology, celera"
 favicon: "/img/favicon.ico"
 
@@ -153,7 +153,7 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "estonoesunacharla"
+disqus-shortname: "" # "estonoesunacharla"
 
 syntax-highlight: True
 
@@ -181,7 +181,7 @@ events:
 # Contact #
 ###########
 
-email: "info@estonoesunacharla.com"
+email: "estonoesunacharla@acelerame.org"
 
 ################
 # Author Blurb #
