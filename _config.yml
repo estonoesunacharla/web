@@ -161,13 +161,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/eneuc/logo-fondo-azul-cuadrado.jpg"
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
     date: "18 de abril 2018"
     description: "El cerebro contra la sociedad, con Javier Frontiñan"
-  - image: "/img/eneuc/logo-fondo-azul-cuadrado.jpg"
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
     date: "Mayo 2018"
     description: "TBD"
-  - image: "/img/eneuc/logo-fondo-azul-cuadrado.jpg"
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
     date: "Junio 2018"
     description: "TBD"
 
