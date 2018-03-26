@@ -8,8 +8,6 @@ $maya3-color: #eebd3d;
 $maya4-color: #000000;
 $maya5-color: #ffffff; 
 
-@import "variables-estonoesunacharla";
-
 @font-face {
     font-family: mayafont;
     src: local('Dominique'), url(../fonts/Dominique.otf) format('otf');
