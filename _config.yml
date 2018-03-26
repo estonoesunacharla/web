@@ -31,7 +31,7 @@ force-https: False
 lang: "es"
 author: "Celera"
 title: "{ #EstoNoEsUnaCharla }"
-description: "Conversaciones sobre un tema de ciencia y tecnología cada mes."
+description: "Conversaciones sobre ciencia y tecnología, una vez cada mes."
 keywords: "dissemination, science, technology, celera"
 favicon: "/img/favicon.ico"
 
@@ -47,7 +47,6 @@ background-img: "../img/intro-bg-min.jpg"
 ######################
 # Latest post layout #
 ######################
-
 
 latest-post-background-img: "../img/latest-post-bg.jpg"
 
@@ -89,7 +88,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Explorando juntos el futuro de la ciencia y la tecnología."
   - text: "Grandes personas y buena cerveza."
 
-me-img: "/img/eneuc.png"
+me-img: "/img/eneuc/logo-fondo-azul-cuadrado.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -114,8 +113,8 @@ me-img: "/img/eneuc.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#d2e6e7"
+apple-status-bar-style: "black-translucent"
 
 ################
 # Web app mode #
@@ -136,7 +135,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: False
 
 post-preview-words: 96
 
@@ -162,15 +161,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/mario.jpg"
-    date: "Abril 2018"
-    description: "Primera no-charla. Más adelante, cuando tengamos varias no-charlas hechas, se puede activar esta sección para mostrar un timeline de las últimas X no-charlas."
-  - image: "/img/timeline/mario.jpg"
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.jpg"
+    date: "18 de abril 2018"
+    description: "El cerebro contra la sociedad, con Javier Frontiñan"
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.jpg"
     date: "Mayo 2018"
-    description: "Título segunda no-charla y quién la da"
-  - image: "/img/timeline/mario.jpg"
+    description: "TBD"
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.jpg"
     date: "Junio 2018"
-    description: "Título tercera no-charla y quién la da"
+    description: "TBD"
 
 # First image of the Timeline
 
@@ -191,15 +190,15 @@ email: "estonoesunacharla@acelerame.org"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Esto no es una charla ... aquí puede ir una breve descripción sobre ENEUC o sobre lo que sea, aparecerá en todos los posts al final del tó."
-author_blurb_image: "/img/eneuc.png"
+author_blurb: "Conversaciones de ciencia y tecnología, una vez al mes."
+author_blurb_image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
+  - title: "instagram"
     url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/" 
@@ -210,7 +209,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/mario.jpg"
+err-404-img: "/img/eneuc/logo-fondo-azul-cuadrado.png"
 
 ##################
 # GPG on Keybase #
