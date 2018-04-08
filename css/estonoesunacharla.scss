@@ -13,34 +13,22 @@ $maya5-color: #ffffff;
     src: local('Dominique'), url(../fonts/Dominique.otf) format('otf');
 }
 
-#about {
+section:nth-child(even) {
     background-color: $maya1-color;
     color: $maya4-color;
+    a {
+        color: $maya2-color;
+    }
 }
 
-#latest-post {
+section:nth-child(even) {
     background-color: $maya2-color;
     color: $maya5-color;
 }
 
-#timeline {
+footer {
     background-color: $maya1-color;
     color: $maya4-color;
-}
-
-#team {
-    background-color: $maya2-color;
-    color: $maya5-color;
-}
-
-#contact {
-    background-color: $maya1-color;
-    color: $maya4-color;
-}
-
-#footer {
-    background-color: $maya2-color;
-    color: $maya5-color;
 }
 
 .intro .intro-body .intro-text {   
@@ -73,6 +61,7 @@ $maya5-color: #ffffff;
 }
 
 h2 {    
+    font-size: 35px;
     font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
