@@ -82,20 +82,20 @@ div.intro-text-container {
 
 @media (max-width: 999px){
   .navbar-toggle {
-    display: block;
+    display: block !important;
   }
 
   .navbar-collapse{
-    display: none;
+    display: none !important;
   }
 }
 
 @media (min-width: 1000px){
   .navbar-toggle {
-    display: none;
+    display: none !important;
   }
 
   .navbar-collapse{
-    display: block;
+    display: block !important;
   }
 }
