@@ -8,6 +8,11 @@ $maya3-color: #eebd3d;
 $maya4-color: #000000;
 $maya5-color: #ffffff; 
 
+body {
+    color: $maya5-color;
+    background-color: $maya2-color;
+}
+
 @font-face {
     font-family: mayafont;
     src: local('Dominique'), url(../fonts/Dominique.otf) format('otf');
