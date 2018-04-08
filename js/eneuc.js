@@ -4,5 +4,5 @@ $( function(){
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
-  $('header').css('background-image','url("http://estonoesunacharla.com/img/bg/' + getRandomInt(1,3) + '.jpg")')
+  $('header').css('background-image','url("http://estonoesunacharla.com/img/bg/' + getRandomInt(1,29) + '.jpg")')
 })
