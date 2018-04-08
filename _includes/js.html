@@ -149,6 +149,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
     $(".intro-text").typed({
       strings: myQuotes,
       typeSpeed: {{ site.type-speed }},
+      backSpeed: {{ site.back-speed }},
       backDelay: {{ site.delete-delay }},
       startDelay: {{ site.start-delay }},
       loop: {{ site..loop }},
