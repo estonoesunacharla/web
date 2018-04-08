@@ -9,12 +9,12 @@ $secondary-color: #00cdff;
 // Font color
 $font-color: #fff;
 
-$navbar-text-shadow: true;
-$header-text-shadow: true;
+$navbar-text-shadow: false;
+$header-text-shadow: false;
 $header-background-color: $primary-color;
 $intro-text-color: $font-color;
 $navbar-color: $font-color;
-$navbar-lg-collapse-background-color: $header-background-color;
+$navbar-lg-collapse-background-color: rgba(32,32,32,0.9);
 $navbar-lg-background: transparent;
 $navbar-sm-background-color: $navbar-lg-collapse-background-color;
 
