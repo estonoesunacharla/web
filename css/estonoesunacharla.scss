@@ -13,6 +13,11 @@ $maya5-color: #ffffff;
     src: local('Dominique'), url(../fonts/Dominique.otf) format('otf');
 }
 
+header{
+  background-size: cover;
+  background-position: center center;
+}
+
 #about {
     background-color: $maya1-color;
     color: $maya4-color;
