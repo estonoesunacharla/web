@@ -18,7 +18,7 @@ header{
   background-position: center center;
 }
  
-section:nth-child(odd) {
+.eneucsection:nth-child(odd) {
     background-color: $maya1-color;
     color: $maya4-color;
     a {
@@ -26,14 +26,9 @@ section:nth-child(odd) {
     }
 }
 
-section:nth-child(even) {
+.eneucsection:nth-child(even) {
     background-color: $maya2-color;
     color: $maya5-color;
-}
-
-footer {
-    background-color: $maya1-color;
-    color: $maya4-color;
 }
 
 .intro .intro-body .intro-text {   
