@@ -62,15 +62,21 @@ footer {
 
 .intro .intro-body .intro-text {   
     font-size: 24px; 
+    text-shadow: 0px 0px 5px #FFFFFF;
     @media(min-width:768px) {  
+        text-shadow: 0px 0px 5px #FFFFFF;
         font-size: 32px;
     } 
 } 
 
 .typed-cursor{ 
     font-size: 24px; 
+    text-shadow: 0px 0px 5px $maya3-color;
+    color: $maya3-color;
     @media(min-width:768px) {
         font-size: 32px;
+        text-shadow: 0px 0px 5px $maya3-color;
+        color: $maya3-color;
     }
 }
 
