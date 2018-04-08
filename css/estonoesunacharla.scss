@@ -42,6 +42,19 @@ header{
     color: $maya5-color;
 }
 
+#post {
+    background-color: $maya1-color;
+    color: $maya4-color;
+    a {
+        color: $maya2-color;
+        &:hover,
+        &:focus {
+        text-decoration: none;
+        color: darken($maya2-color,20%); 
+        }
+    }
+}
+
 .intro .intro-body .intro-text {   
     font-size: 24px; 
     @media(min-width:768px) {  

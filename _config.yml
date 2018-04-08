@@ -189,8 +189,8 @@ email: "estonoesunacharla@acelerame.org"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Conversaciones de ciencia y tecnología, una vez al mes."
-author_blurb_image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
+author_blurb: false
+author_blurb_image: ""
 
 ##################
 # Social Buttons #
