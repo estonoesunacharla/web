@@ -31,21 +31,19 @@ header{
 #timeline {
     background-color: $maya1-color;
     color: $maya4-color;
+    a {
+        color: $maya2-color;
+    }
 }
 
-#team {
+section:nth-child(even) {
     background-color: $maya2-color;
     color: $maya5-color;
 }
 
-#contact {
+footer {
     background-color: $maya1-color;
     color: $maya4-color;
-}
-
-#footer {
-    background-color: $maya2-color;
-    color: $maya5-color;
 }
 
 .intro .intro-body .intro-text {   
@@ -78,6 +76,7 @@ header{
 }
 
 h2 {    
+    font-size: 35px;
     font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
