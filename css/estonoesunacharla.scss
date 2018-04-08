@@ -19,11 +19,15 @@ $maya5-color: #ffffff;
   margin-top: -6px;
 }
 
-header{
-  background-size: cover;
-  background-position: center center;
+.intro { 
+  background-position: center center; 
+  .fog { 
+    width: 100%;
+    height: auto;
+    background-color: rgba(210,230,231,0.60);
+    }
 }
- 
+
 .eneucsection:nth-child(odd) {
     background-color: $maya1-color;
     color: $maya4-color;
