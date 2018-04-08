@@ -222,7 +222,7 @@ err-404-img: "/img/eneuc/logo-fondo-azul-cuadrado.png"
 
 pages_list:
   ¿Qué?: 'about'
-  ¿Cómo?: 'latest-post'
+  ¿Dónde?: 'latest-post'
   ¿Cuándo?: 'timeline'
   ¿Quiénes?: 'team'
   Contacto: 'contact'
