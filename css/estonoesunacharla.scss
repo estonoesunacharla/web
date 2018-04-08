@@ -74,3 +74,23 @@ h2 {
 div.intro-text-container {
     min-height: 200px;
 }
+
+@media (max-width: 999px){
+  .navbar-toggle {
+    display: block;
+  }
+
+  .navbar-collapse{
+    display: none;
+  }
+}
+
+@media (min-width: 1000px){
+  .navbar-toggle {
+    display: none;
+  }
+
+  .navbar-collapse{
+    display: block;
+  }
+}
