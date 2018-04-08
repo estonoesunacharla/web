@@ -13,6 +13,11 @@ $maya5-color: #ffffff;
     src: local('Dominique'), url(../fonts/Dominique.otf) format('otf');
 }
 
+.navbar-brand img{
+  width: 16px;
+  height: 16px;
+}
+
 header{
   background-size: cover;
   background-position: center center;
