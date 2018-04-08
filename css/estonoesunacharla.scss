@@ -96,6 +96,8 @@ div.intro-text-container {
 @media (max-width: 999px){
   .navbar-toggle {
     display: block !important;
+    right: 0;
+    position: absolute;
   }
 
   .navbar-collapse.collapse{
