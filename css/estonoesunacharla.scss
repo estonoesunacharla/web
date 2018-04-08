@@ -21,10 +21,13 @@ $maya5-color: #ffffff;
 
 .intro { 
   background-position: center center; 
+  padding: 0;
+  display: block;
   .fog { 
+    display: table;
     width: 100%;
     height: 100%;
-    background-color: rgba(210,230,231,0.40);
+    background-color: rgba(210,230,231,0.45);
     }
 }
 
