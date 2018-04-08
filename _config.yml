@@ -166,10 +166,7 @@ events:
     description: "El cerebro contra la sociedad, con Javier Frontiñan"
   - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
     date: "Mayo 2018"
-    description: "TBD"
-  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
-    date: "Junio 2018"
-    description: "TBD"
+    description: "El futuro de las terapias contra el cáncer, con Julia Palacios" 
 
 # First image of the Timeline
 
@@ -201,12 +198,6 @@ social:
   - title: "instagram"
     url: "https://instagram.com/estonoesuna"
   
-############
-# 404 page #
-############
-
-err-404-img: "/img/eneuc/logo-fondo-azul-cuadrado.png"
-
 ##################
 # GPG on Keybase #
 ##################
