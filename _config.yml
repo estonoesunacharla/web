@@ -222,9 +222,9 @@ err-404-img: "/img/eneuc/logo-fondo-azul-cuadrado.png"
 
 pages_list:
   ¿Qué?: 'about'
-  No-charlas: 'latest-post'
-  Calendario: 'timeline'
-  Equipo: 'team'
+  ¿Cómo?: 'latest-post'
+  ¿Cuándo?: 'timeline'
+  ¿Quiénes?: 'team'
   Contacto: 'contact'
 
 # Exclusion list from the generated _site
