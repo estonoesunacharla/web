@@ -195,6 +195,8 @@ author_blurb_image: ""
 ##################
 
 social:
+  - title: "envelope"
+    url: "mailto:estonoesunacharla@acelerame.org"
   - title: "instagram"
     url: "https://instagram.com/estonoesuna"
   
