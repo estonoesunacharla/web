@@ -2,12 +2,12 @@
 ---
 
 // Main colors
-$maya1-color: #d2e6e7; 
+$maya1-color: #d2e6e7;
 $maya2-color: #5b7778;
 $maya3-color: #eebd3d;
 $maya4-color: #000000;
-$maya5-color: #ffffff; 
- 
+$maya5-color: #ffffff;
+
 @font-face {
     font-family: mayafont;
     src: local('Dominique'), url(../fonts/Dominique.otf) format('otf');
@@ -19,11 +19,11 @@ $maya5-color: #ffffff;
   margin-top: -6px;
 }
 
-.intro { 
-  background-position: center center; 
+.intro {
+  background-position: center center;
   padding: 0;
   display: block;
-  .fog { 
+  .fog {
     display: table;
     width: 100%;
     height: 100%;
@@ -39,7 +39,7 @@ $maya5-color: #ffffff;
         &:hover,
         &:focus {
         text-decoration: none;
-        color: darken($maya2-color,20%); 
+        color: darken($maya2-color,20%);
         }
     }
 }
@@ -62,22 +62,22 @@ footer {
         &:hover,
         &:focus {
         text-decoration: none;
-        color: darken($maya2-color,20%); 
+        color: darken($maya2-color,20%);
         }
     }
 }
 
-.intro .intro-body .intro-text {   
-    font-size: 24px; 
+.intro .intro-body .intro-text {
+    font-size: 24px;
     text-shadow: 0px 0px 5px #FFFFFF;
-    @media(min-width:768px) {  
+    @media(min-width:768px) {
         text-shadow: 0px 0px 5px #FFFFFF;
         font-size: 32px;
-    } 
-} 
+    }
+}
 
-.typed-cursor{ 
-    font-size: 24px; 
+.typed-cursor{
+    font-size: 24px;
     text-shadow: 0px 0px 5px $maya3-color;
     color: $maya3-color;
     @media(min-width:768px) {
@@ -95,14 +95,14 @@ footer {
         margin-top: 0px;
         padding-top: 125px;
         padding-bottom: 125px;
-    } 
+    }
 }
 
-.content-section img {  
+.content-section img {
     border: 0px !important;
 }
 
-h2 {    
+h2 {
     font-size: 35px;
     font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -130,5 +130,41 @@ div.intro-text-container {
 
   .navbar-collapse.collapse{
     display: block !important;
+  }
+}
+
+#barraaceptacion {
+  display:none;
+  position:fixed;
+  left:0px;
+  right:0px;
+  bottom:0px;
+  padding-bottom:20px;
+  width:100%;
+  text-align:center;
+  min-height:40px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color:#fff;
+  z-index:99999;
+
+  .inner {
+    width:100%;
+    position:absolute;
+    padding-left:5px;
+    font-family:verdana;
+    font-size:12px;
+    top:30%;
+  }
+
+  .inner a.ok {
+    padding:4px;
+    color:#00ff2e;
+    text-decoration:none;
+  }
+
+  .inner a.info {
+    padding-left:5px;
+    text-decoration:none;
+    color:#faff00;
   }
 }
