@@ -161,12 +161,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/events-square/fronti.jpg"
-    date: "18 de abril 2018"
-    description: "Esto no es una charla de Neurociencia, con Javier Frontiñan"
   - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
-    date: "Mayo 2018"
+    date: "30 de Mayo 2018"
     description: "El futuro de las terapias contra el cáncer, con Julia Palacios" 
+  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
+    date: "Junio 2018"
+    description: "Grafeno hasta en la sopa, con Jose Miguel González" 
+
 
 # First image of the Timeline
 
