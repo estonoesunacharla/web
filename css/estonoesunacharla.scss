@@ -37,6 +37,10 @@ $maya5-color: #ffffff;
     }
 }
 
+.eneucsection{
+  width: 100%;
+}
+
 .eneucsection:nth-child(odd) {
     background-color: $maya1-color;
     color: $maya4-color;
@@ -111,6 +115,10 @@ footer {
 h2 {
     font-size: 35px;
     font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    span{
+      display: inline-block;
+    }
 }
 
 div.intro-text-container {
