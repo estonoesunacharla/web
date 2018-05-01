@@ -170,7 +170,12 @@ div.intro-text-container {
     color: #eebd3d;
   }
 
+  figure{
+    text-align: center;
+  }
+
   .circle{
+    display: inline-block;
     width: 75%;
     padding: 6px;
     background: #fff;
