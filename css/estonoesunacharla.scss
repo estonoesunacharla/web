@@ -112,6 +112,11 @@ footer {
     border: 0px !important;
 }
 
+h1{
+  font-size: 56px;
+  font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 h2 {
     font-size: 35px;
     font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -132,9 +137,6 @@ div.intro-text-container {
     position: absolute;
   }
 
-  .navbar-collapse.collapse{
-    display: none !important;
-  }
 }
 
 @media (min-width: 1000px){
