@@ -16,7 +16,23 @@
 
           <h1><strong>{{ page.title }}</strong></h1>
           <h4>
-            <strong>{{ page.date | date_to_string }}</strong>
+            <strong> {% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Ene
+  {% when '2' %}Feb
+  {% when '3' %}Mar
+  {% when '4' %}Abr
+  {% when '5' %}May
+  {% when '6' %}Jun
+  {% when '7' %}Jul
+  {% when '8' %}Aug
+  {% when '9' %}Sep
+  {% when '10' %}Oct
+  {% when '11' %}Nov
+  {% when '12' %}Dec
+{% endcase %}
+{{ page.date | date: "%Y" }} </strong>
               {% for tag in page.tags %}
                 <a class="tag" href="{{site.baseurl}}/tags/{{tag | downcase}}.html">#{{ tag }}</a>
               {% endfor %}
@@ -26,7 +42,7 @@
           <section class="text-justify">
             {{ page.content | markdownify }}
           </section>
- 
+
         </div>
       </div>
     </section>

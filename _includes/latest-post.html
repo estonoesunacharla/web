@@ -9,13 +9,29 @@
         {{ page.content | markdownify }}
 
         {% assign post = site.posts.first %}
-        <h4> <strong> {{ post.date | date_to_string }} </strong><strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+        <h4> <strong> {% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Ene
+  {% when '2' %}Feb
+  {% when '3' %}Mar
+  {% when '4' %}Abr
+  {% when '5' %}May
+  {% when '6' %}Jun
+  {% when '7' %}Jul
+  {% when '8' %}Aug
+  {% when '9' %}Sep
+  {% when '10' %}Oct
+  {% when '11' %}Nov
+  {% when '12' %}Dec
+{% endcase %}
+{{ page.date | date: "%Y" }} </strong><strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
           <!-- <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comentarios</a></small> -->
         </h4>
 
         <section class="text-justify">
           {{ post.content | markdownify }}
-        </section> 
+        </section>
 
         <br />
 
