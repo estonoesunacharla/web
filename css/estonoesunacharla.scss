@@ -167,13 +167,15 @@ div.intro-text-container {
 
   a:hover{
     background: rgba(210,230,231,0.25);
+    color: #eebd3d;
   }
 
   .circle{
+    width: 75%;
     padding: 6px;
     background: #fff;
     border-radius: 100%;
-    margin-bottom: 18px;
+    margin-bottom: 10px;
   }
 
   img{
