@@ -161,10 +161,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
+  - image: "/img/events-square/julia.jpg"
     date: "30 de Mayo 2018"
     description: "El futuro de las terapias contra el cáncer, con Julia Palacios" 
-  - image: "/img/eneuc/logo-fondo-azul-cuadrado.png"
+  - image: "/img/events-square/jm.jpg"
     date: "Junio 2018"
     description: "Grafeno hasta en la sopa, con Jose Miguel González" 
 
