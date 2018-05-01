@@ -154,7 +154,17 @@ div.intro-text-container {
 
   .team-member{
     width: 150px;
-    margin: 10px 15px;
+    margin: 5px 10px;
+  }
+
+  a{
+    display: block;
+    border-radius: 10px;
+    padding: 5px;
+  }
+
+  a:hover{
+    background: #d2e6e7M
   }
 
   img{
