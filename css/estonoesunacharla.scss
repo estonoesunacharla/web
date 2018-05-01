@@ -169,10 +169,15 @@ div.intro-text-container {
     background: #d2e6e7;
   }
 
-  img{
-    border: 6px #fff solid !important;
+  .circle{
+    padding: 6px;
+    background: #fff;
     border-radius: 100%;
     margin-bottom: 18px;
+  }
+
+  img{
+    border-radius: 100%;
   }
 
   figcaption{
