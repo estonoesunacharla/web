@@ -162,10 +162,10 @@ syntax-highlight: True
 events:
   - image: "/img/events-square/julia.jpg"
     date: "30 de Mayo 2018"
-    description: "El futuro de las terapias contra el cáncer, con Julia Palacios" 
+    description: "Esto no es una charla sobre medicina: El futuro de las terapias contra el cáncer. Con Julia Palacios" 
   - image: "/img/events-square/jm.jpg"
     date: "Junio 2018"
-    description: "Grafeno hasta en la sopa, con Jose Miguel González" 
+    description: "Esto no es una charla sobre nanotecnología: No es oro todo lo que reluce ni grafeno todo lo que conduce. Con Jose Miguel González" 
 
 
 # First image of the Timeline
