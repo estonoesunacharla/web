@@ -11,7 +11,7 @@ combatirlo? Si quieres saber cómo están evolucionando las terapias y qué nos
 depara el futuro, ven a #EstoNoEsUnaCharla y descúbrelo en "El futuro de la
 guerra contra el cáncer", con Julia Palacios.
 
-Nos reuniremos en WeWork, Paseo de la Castellana 77, Madrid, el día 30 de Mayo
+Nos reuniremos en WeWork, Paseo de la Castellana 43, Madrid, el día 30 de Mayo
 a las 18:45 para conversar sobre este tema tan importante para todos. ¡Reserva
 la fecha en tu calendario! Las entradas gratuitas estarán disponibles en
 breve.
