@@ -238,14 +238,15 @@ div.intro-text-container {
   min-height: calc( 100% - 196px );
 }
 
-div.superboton {
+a.superboton {
+  margin: auto;
   background-color: $maya3-color;
   position: relative;
   display: inline-block;
   border-radius: 0.35em;
   text-decoration: none;
-  color: $maya4-color;
-  padding: 0.75em 2.5em 0.75em 2.5em;
+  color: $maya4-color; 
+  padding: 2em 2.5em 2em 2.5em;
   border: 0;
   cursor: pointer;
   transition: background-color 0.35s ease-in-out;
@@ -255,7 +256,7 @@ div.superboton {
   text-align: center;
 }
 
-div.superboton:hover {
+a.superboton:hover {
   background-color: $maya5-color;
 }
 
