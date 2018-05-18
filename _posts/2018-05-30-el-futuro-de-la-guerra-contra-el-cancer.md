@@ -16,3 +16,6 @@ a las 18:45 para conversar sobre este tema tan importante para todos. ¡Reserva
 la fecha en tu calendario! Las entradas gratuitas estarán disponibles en
 breve.
 
+<div class="superboton">
+<a href="https://entradium.com/entradas/charla-terapias-cancer">Consigue tus entradas gratis</a>
+</div>
