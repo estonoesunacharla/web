@@ -242,18 +242,19 @@ a.superboton {
   margin: auto;
   background-color: $maya3-color;
   position: relative;
-  display: inline-block;
-  border-radius: 0.35em;
+  display: table;
+  border-radius: 0.5em;
   text-decoration: none;
   color: $maya4-color; 
-  padding: 2em 2.5em 2em 2.5em;
+  padding: 0.5em 1em 0.5em 1em;
   border: 0;
   cursor: pointer;
   transition: background-color 0.35s ease-in-out;
   vertical-align: baseline;
-  font-size: 100%;
+  font-size: 40px;
   box-sizing: border-box;
   text-align: center;
+  font-family: "mayafont","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 a.superboton:hover {
