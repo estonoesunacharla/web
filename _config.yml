@@ -86,6 +86,9 @@ lines: # You can add HTML Tags in the Text
   - text: "La frontera de la Física, la Informática, y la Biología."
   - text: "Explorando juntos el futuro de la Ciencia y la Tecnología."
   - text: "Grandes personas (y buena cerveza)."
+  - text: "Pregúntame cualquier cosa."
+  - text: "Los últimos avances en ingeniería."
+  - text: "Las mejores ideas para terraformar Marte."
 
 me-img: "/img/eneuc/logo-fondo-azul-cuadrado.png"
 
@@ -160,13 +163,13 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/events-square/julia.jpg"
-    date: "30 de Mayo 2018"
-    description: "Esto no es una charla sobre oncología: El futuro de la guerra contra el cáncer. Con Julia Palacios" 
+events:  
   - image: "/img/events-square/jm.jpg"
     date: "Junio 2018"
     description: "Esto no es una charla sobre nanotecnología: No es oro todo lo que reluce ni grafeno todo lo que conduce. Con Jose Miguel González" 
+  - image: "/img/events-square/eneuc.jpg"
+    date: "Septiembre 2018"
+    description: "Esta no-charla se anunciará próximamente." 
 
 
 # First image of the Timeline

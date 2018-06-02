@@ -9,8 +9,9 @@ tags: [ ]
 En esta primera no-charla, conversamos con Javier Frontiñan sobre 
 neurociencia, las cosas que no sabemos sobre nuestro cerebro, y las que sí 
 sabemos pero no las reconocemos.
-Puedes recordar el video completo del evento [aquí](https://www.facebook.com/rewisormag/videos/1761663777228183/).
+Puedes ver el video completo del evento grabado por 
+[Rewisor](http://www.rewisor.com/) aquí:.
 
+TEST:
 
-<img src="/img/carteles/fronti.jpg" alt="EstoNoEsUnaCharla" style="width: 500px;"/>
-
+ <iframe width="560px" height="315px" src="https://www.youtube.com/embed/47BJOD7pBvg?rel=0&amp;showinfo=0" frameborder="0"></iframe>

@@ -1,8 +1,8 @@
 $( function(){
-  
+
   function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
-  $('header').css('background-image','url("http://estonoesunacharla.com/img/bg/' + getRandomInt(1,43) + '.jpg")')
+  $('header').css('background-image','url("http://estonoesunacharla.com/img/bg/' + getRandomInt(1,47) + '.jpg")')
 })
