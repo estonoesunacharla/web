@@ -13,4 +13,4 @@ respondió a todas nuestras preguntas sobre cómo están evolucionando las terap
 
 TEST:
 
- <iframe width="560px" height="315px" src="https://www.youtube.com/embed/47BJOD7pBvg?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+ <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/gtBDiuoAPow?rel=0&amp;showinfo=0" frameborder="0"></iframe>

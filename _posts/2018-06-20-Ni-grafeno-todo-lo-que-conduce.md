@@ -15,7 +15,7 @@ a las 18:45 para conversar sobre este tema tan interesante. ¡Reserva
 la fecha en tu calendario! Las entradas gratuitas estarán disponibles en
 breve.
 
-<img src="/img/carteles/jm.png" alt="EstoNoEsUnaCharla" style="width: 500px;"/>
+<img src="/img/carteles/jm.jpg" alt="EstoNoEsUnaCharla" style="width: 500px;"/>
 
 <a class="superboton" href="">Entradas aún no disponibles...</a>
 

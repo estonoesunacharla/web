@@ -14,4 +14,4 @@ Puedes ver el video completo del evento grabado por
 
 TEST:
 
- <iframe width="560px" height="315px" src="https://www.youtube.com/embed/47BJOD7pBvg?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+ <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/rHdh_WUhdkk?rel=0&amp;showinfo=0" frameborder="0"></iframe>
