@@ -245,7 +245,7 @@ a.superboton {
   display: table;
   border-radius: 0.5em;
   text-decoration: none;
-  color: $maya4-color; 
+  color: $maya4-color !important;
   padding: 0.5em 1em 0.5em 1em;
   border: 0;
   cursor: pointer;
