@@ -14,8 +14,13 @@ a las 18:45 para conversar sobre este tema tan interesante. ¡Reserva
 la fecha en tu calendario! Las entradas gratuitas estarán disponibles en
 breve.
 
-<img src="/img/carteles/jm.png" alt="EstoNoEsUnaCharla" style="width: 500px;"/>
-
+¿Quieres aprender sobre el tema antes de la no-charla? te recomendamos que 
+veas estos vídeos cortos y amenos:
+[1](https://www.youtube.com/watch?v=0A14Ci5vI8A)
+[2](https://www.youtube.com/watch?v=dTSnnlITsVg)
+ 
+<img src="/img/carteles/jm.png" alt="EstoNoEsUnaCharla" style="width: 550px;"/>
+ 
 <a class="superboton" href="">Entradas aún no disponibles...</a>
 
  
