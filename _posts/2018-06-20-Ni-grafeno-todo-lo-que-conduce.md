@@ -13,6 +13,8 @@ Nos reuniremos en WeWork, Paseo de la Castellana 77, Madrid, el día 20 de Junio
 a las 18:45 para conversar sobre este tema tan interesante. ¡Reserva
 la fecha en tu calendario y pide tu entrada gratuita!
 
+<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-nanotecnologia-46837303636">Consigue tu entrada</a>
+
 ¿Quieres aprender sobre el tema antes de la no-charla? te recomendamos que
 veas estos vídeos cortos y amenos:
 [uno](https://www.youtube.com/watch?v=dTSnnlITsVg)
@@ -20,5 +22,3 @@ y
 [dos](https://www.youtube.com/watch?v=0A14Ci5vI8A).
 
 <img src="/img/carteles/jm.png" alt="EstoNoEsUnaCharla" style="width: 550px;"/>
-
-<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-nanotecnologia-46837303636">Consigue tu entrada</a>
