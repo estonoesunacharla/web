@@ -83,6 +83,7 @@ lines: # You can add HTML Tags in the Text
   - text: "¿Quieres saber más sobre ciberseguridad?"
   - text: "Grafeno, mucho grafeno. Montones de grafeno."
   - text: "Cómo funciona nuestro cerebro."
+  - text: "¿Cómo se detectan los exoplanetas habitables?."
   - text: "La frontera de la Física, la Informática, y la Biología."
   - text: "Explorando juntos el futuro de la Ciencia y la Tecnología."
   - text: "Grandes personas (y buena cerveza)."
@@ -165,10 +166,10 @@ syntax-highlight: True
 
 events:  
   - image: "/img/events-square/jm.jpg"
-    date: "Junio 2018"
-    description: "Esto no es una charla sobre nanotecnología: No es oro todo lo que reluce ni grafeno todo lo que conduce. Con Jose Miguel González" 
-  - image: "/img/events-square/eneuc.png"
     date: "Julio 2018"
+    description: "Esto no es una charla sobre exoplanetas y exploración espacial. Con Daniel Grande" 
+  - image: "/img/events-square/eneuc.png"
+    date: "Septiembre 2018"
     description: "Esta no-charla se anunciará próximamente." 
 
 
