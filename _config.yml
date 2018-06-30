@@ -165,7 +165,7 @@ syntax-highlight: True
 ############
 
 events:  
-  - image: "/img/events-square/jm.jpg"
+  - image: "/img/events-square/dani.jpg"
     date: "Julio 2018"
     description: "Esto no es una charla sobre exoplanetas y exploración espacial. Con Daniel Grande" 
   - image: "/img/events-square/eneuc.png"
