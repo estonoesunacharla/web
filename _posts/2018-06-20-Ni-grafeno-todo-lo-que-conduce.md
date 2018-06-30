@@ -13,4 +13,4 @@ En esta no-charla, titulada
 Puedes ver el vídeo de 
 [Rewisor](http://www.rewisor.com/) a continuación:
  
- <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/gtBDiuoAPow?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+ <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/w4gN-Q6X0uw?rel=0&amp;showinfo=0" frameborder="0"></iframe>
