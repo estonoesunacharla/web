@@ -164,14 +164,13 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:  
-  - image: "/img/events-square/dani.jpg"
-    date: "Julio 2018"
-    description: "Esto no es una charla sobre exoplanetas y exploración espacial. Con Daniel Grande" 
+events:   
   - image: "/img/events-square/eneuc.png"
     date: "Septiembre 2018"
     description: "Esta no-charla se anunciará próximamente." 
-
+  - image: "/img/events-square/eneuc.png"
+    date: "Octubre 2018"
+    description: "Esta no-charla se anunciará próximamente." 
 
 # First image of the Timeline
 
