@@ -13,4 +13,4 @@ respondió a estas y muchas más preguntas.
 La no-charla tuvo lugar en WeWork, Paseo de la Castellana 43, Madrid, el día 18 de Julio. Puedes ver el vídeo de 
 [Rewisor](http://www.rewisor.com/) a continuación:
  
- <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/w4gN-Q6X0uw?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+ <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/vuFA-w0FCIY?rel=0&amp;showinfo=0" frameborder="0"></iframe>
