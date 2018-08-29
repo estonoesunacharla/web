@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Esto no es un círculo vicioso: economía circular
+title: Esto no es un círculo vicioso... Economía Circular
 category: no-charlas
 tags: [ ]
 ---
