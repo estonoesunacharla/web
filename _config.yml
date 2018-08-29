@@ -165,12 +165,12 @@ syntax-highlight: True
 ############
 
 events:   
-  - image: "/img/events-square/eneuc.png"
-    date: "Septiembre 2018"
-    description: "Esta no-charla se anunciará próximamente." 
-  - image: "/img/events-square/eneuc.png"
-    date: "Octubre 2018"
-    description: "Esta no-charla se anunciará próximamente." 
+  - image: "/img/events-square/circular.jpg"
+    date: "12 septiembre 2018"
+    description: "Esto no es un círculo vicioso: economía circular. Con Adela Conchado." 
+  - image: "/img/events-square/cyberethics.jpg"
+    date: "24 octubre 2018"
+    description: "Cuando tu coche automático sabe más que tú: ciber-ética, con Sara Lumbreras y Javier Garmón." 
 
 # First image of the Timeline
 
