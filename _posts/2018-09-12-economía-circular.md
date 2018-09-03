@@ -10,10 +10,8 @@ tags: [ ]
 
 Todo esto y mucho más, en nuestra próxima no-charla sobre
 **Economía Circular**, que tendrá lugar en el WeWork de Castellana 77, Madrid, el 12 de septiembre a las 18:45,
-con nuestra queridísima **Adela Conchado** como invitada especial. Estáis todos invitados a traerle vuestra artillería de preguntas, tan solo tenéis que reservar plaza gratuita en el link que publicaremos aquí en breve. ¡Os esperamos!
+con nuestra queridísima **Adela Conchado** como invitada especial. Estáis todos invitados a traerle vuestra artillería de preguntas, tan solo tenéis que reservar plaza gratuita en el link que aparece a continuación. ¡Os esperamos!
 
-<!-- 
-<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-exoplanetas-y-como-llegar-a-ellos-47459201750">Consigue tu entrada</a>
--->
+<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-economia-circular-49741912399">Consigue tu entrada</a>
 
-
+<img src="/img/carteles/adela.png" alt="EstoNoEsUnaCharla" style="width: 550px;"/>
