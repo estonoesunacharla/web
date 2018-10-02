@@ -168,11 +168,12 @@ events:
   - image: "/img/events-square/cyberethics.jpg"
     date: "24 octubre 2018"
     description: "Cuando tu coche automático sabe más que tú: ciber-ética, con Sara Lumbreras y Javier Garmón."
-
-# First image of the Timeline
+  - image: "/img/events-square/cyberethics.jpg"
+    date: "24 octubre 2018"
+    description: "Cuando tu coche automático sabe más que tú: ciber-ética, con Sara Lumbreras y Javier Garmón."
 
 # Uncomment this to add a last circle to the timeline, without words
-# timeline-img: "/img/eneuc.png"
+timeline-img: "/img/eneuc.png"
 
 ###########
 # Contact #
