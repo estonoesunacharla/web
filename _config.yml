@@ -70,7 +70,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Descubre una nueva rama de la ciencia cada mes."
   - text: "Nunca antes las matemáticas fueron tan interesantes."
   - text: "Una comunidad de gente con inquietudes."
-  - text: "Un espacio divertido donde aprender y dialogar." 
+  - text: "Un espacio divertido donde aprender y dialogar."
   - text: "Lo que nunca te atreviste a preguntar sobre Inteligencia Artificial."
   - text: "Un club de gente que podría llevar monóculo (si quisiera)."
   - text: "Nunca dejes de aprender."
@@ -78,7 +78,7 @@ lines: # You can add HTML Tags in the Text
   - text: "¿Y qué pasaría si...?"
   - text: "¿Sabes cómo funciona un ordenador cuántico?"
   - text: "Temas interesantes, explorados en profundidad."
-  - text: "Mucho más que meras charlas de divulgación." 
+  - text: "Mucho más que meras charlas de divulgación."
   - text: "¿Qué es lo que sabemos sobre la consciencia humana?"
   - text: "¿Quieres saber más sobre ciberseguridad?"
   - text: "Grafeno, mucho grafeno. Montones de grafeno."
@@ -164,13 +164,10 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:   
-  - image: "/img/events-square/circular.jpg"
-    date: "12 septiembre 2018"
-    description: "Esto no es un círculo vicioso: economía circular. Con Adela Conchado." 
+events:
   - image: "/img/events-square/cyberethics.jpg"
     date: "24 octubre 2018"
-    description: "Cuando tu coche automático sabe más que tú: ciber-ética, con Sara Lumbreras y Javier Garmón." 
+    description: "Cuando tu coche automático sabe más que tú: ciber-ética, con Sara Lumbreras y Javier Garmón."
 
 # First image of the Timeline
 
@@ -205,7 +202,7 @@ social:
     url: "https://twitter.com/NoEsUnaCharla"
   - title: "instagram"
     url: "https://www.instagram.com/estonoesunacharla"
-  
+
 ##################
 # GPG on Keybase #
 ##################
