@@ -8,10 +8,7 @@ tags: [ ]
 
 ¿Es el modelo de producción y consumo que utilizamos insostenible? ¿Existen alternativas que eviten el despilfarro de recursos y la creación innecesaria de residuos? ¿Es acaso implementable otro modelo, circular en vez de lineal, donde todo (o casi todo) se aproveche? ¿Qué tendríamos que cambiar, y a qué niveles?
 
-Todo esto y mucho más, en nuestra próxima no-charla sobre
-**Economía Circular**, que tendrá lugar en el WeWork de Castellana 77, Madrid, el 12 de septiembre a las 18:45,
-con nuestra queridísima **Adela Conchado** como invitada especial. Estáis todos invitados a traerle vuestra artillería de preguntas, tan solo tenéis que reservar plaza gratuita en el link que aparece a continuación. ¡Os esperamos!
+**Adela Conchado** nos respondió a estas y muchas más preguntas el 12 de septiembre en la no-charla titulada **Esto no es un círculo vicioso... Economía Circular**. Puedes
+ver el vídeo de [Rewisor](http://www.rewisor.com/) a continuación:
 
-<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-economia-circular-49741912399">Consigue tu entrada</a>
-
-<img src="/img/carteles/adela.png" alt="EstoNoEsUnaCharla" style="width: 550px;"/>
+<iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.facebook.com/rewisormag/videos/327281848007531/" frameborder="0"></iframe>
