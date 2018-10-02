@@ -11,4 +11,4 @@ tags: [ ]
 **Adela Conchado** nos respondió a estas y muchas más preguntas el 12 de septiembre en la no-charla titulada **Esto no es un círculo vicioso... Economía Circular**. Puedes
 ver el vídeo de [Rewisor](http://www.rewisor.com/) a continuación:
 
-<iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.facebook.com/rewisormag/videos/327281848007531/" frameborder="0"></iframe>
+<iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://youtu.be/KnCXwDYiW6E" frameborder="0"></iframe>
