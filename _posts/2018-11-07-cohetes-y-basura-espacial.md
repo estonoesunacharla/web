@@ -6,9 +6,6 @@ category: no-charlas
 tags: [ ]
 ---
 
-¿Alguna vez te has preguntado qué sucede con lo que hemos mandado ahí fuera cuando termina una misión espacial?
-¿Sabes cuál es uno de los mayores miedos de un astronauta (y de los operadores en Tierra)?
-
 Décadas de lanzamientos de satélites de telecomunicaciones, GPS, y observación de la tierra han creado una nube
 de basura espacial que, de no hacer nada con ella, seguirá orbitándonos virtualmente para siempre, acumulándose a una
 velocidad alarmante.
