@@ -165,11 +165,11 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/events-square/cyberethics.jpg"
-    date: "24 octubre 2018"
-    description: "Cuando tu coche automático sabe más que tú: ciber-ética, con Sara Lumbreras y Javier Garmón."
+  - image: "/img/events-square/mario.jpg"
+    date: "7 noviembre 2018"
+    description: "Cohetes y basura espacial, con Mario Merino."
   - image: "/img/events-square/eneuc.png"
-    date: "noviembre 2018"
+    date: "Diciembre 2018"
     description: "Se anunciará próximamente."
 
 ###########
