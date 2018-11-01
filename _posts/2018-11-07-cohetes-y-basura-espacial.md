@@ -20,6 +20,6 @@ de la mano de **Mario Merino**.
 Estáis todos invitados a disparar todas vuestras preguntas, incluso
 antes de venir a través del formulario de inscripción gratuita que aparece a continuación. ¡Os esperamos!
 
-<!-- <a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-cuando-tu-coche-automatico-sabe-mas-que-tu-ciber-etica-50906758485">Consigue tu entrada</a> -->
+<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-cohetes-y-basura-espacial-51955850347">Consigue tu entrada</a>
 
 <img src="/img/carteles/basuraespacial.png" alt="EstoNoEsUnaCharla" style="width: 550px;"/>
