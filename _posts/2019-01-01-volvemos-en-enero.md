@@ -6,6 +6,7 @@ category: no-charlas
 tags: [ ]
 ---
 
+Queremos daros las gracias a todos por habernos acompañado en este primer año de #ENEUC ¡sois los mejores!
 Este mes de diciembre nos lo tomamos de descanso, pero ¡volveremos con fuerza y nuevas no-charlas en enero! Os estaremos esperando y pensaremos en todos
 vosotros mientras comemos turrón esta Navidad.
 

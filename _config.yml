@@ -168,6 +168,12 @@ events:
   - image: "/img/events-square/eneuc.png"
     date: "Enero 2019"
     description: "Se anunciará próximamente."
+  - image: "/img/events-square/eneuc.png"
+    date: "Febrero 2019"
+    description: "Se anunciará próximamente."
+  - image: "/img/events-square/eneuc.png"
+    date: "Marzo 2019"
+    description: "Se anunciará próximamente."
 
 ###########
 # Contact #
