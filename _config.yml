@@ -164,12 +164,9 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/events-square/mario.jpg"
-    date: "7 noviembre 2018"
-    description: "Cohetes y basura espacial, con Mario Merino."
+events: 
   - image: "/img/events-square/eneuc.png"
-    date: "Diciembre 2018"
+    date: "Enero 2019"
     description: "Se anunciará próximamente."
 
 ###########
