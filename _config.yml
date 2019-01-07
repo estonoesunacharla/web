@@ -165,9 +165,9 @@ syntax-highlight: True
 ############
 
 events: 
-  - image: "/img/events-square/eneuc.png"
-    date: "Enero 2019"
-    description: "Se anunciará próximamente."
+  - image: "/img/events-square/formula.jpg"
+    date: "16 Enero 2019"
+    description: "Esto no es una charla sobre Fórmula 1. Con Virginia Huidobro."
   - image: "/img/events-square/eneuc.png"
     date: "Febrero 2019"
     description: "Se anunciará próximamente."
