@@ -12,4 +12,4 @@ Nos reuniremos en **WeWork, Paseo de la Castellana 43, Madrid**, el día **16 de
 
 <a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-formula-1-54339536015">Consigue tu entrada</a>
 
-<!-- <img src="/img/carteles/navidad.jpg" alt="EstoNoEsUnaCharla" style="width: 550px;"/> -->
+<img src="/img/carteles/virginia.jpg" alt="EstoNoEsUnaCharla" style="width: 550px;"/>
