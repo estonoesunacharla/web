@@ -164,17 +164,14 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:  
-  - image: "/img/events-square/heart.jpg"
-    date: "27 Febrero 2019"
-    description: "Tu corazón se mueve por impulsos... eléctricos. Con Irene Martín."
-  - image: "/img/events-square/surprise.jpg"
-    date: "13 Marzo 2019"
-    description: "¡Tema sorpresa! ¿Qué será, será...?"
+events:   
+  - image: "/img/events-square/paco.jpg"
+    date: "19 Marzo 2019"
+    description: "¿Podría existir una democracia sin ley? Con Francisco Martínez "
   - image: "/img/events-square/dinero.jpg"
-    date: "10 Abril 2019"
+    date: "9 Abril 2019"
     description: "Lo que nunca nos atrevimos a preguntar sobre economía, ahorro e inversión. Con Carlos Galán"
-
+  
 ###########
 # Contact #
 ###########
