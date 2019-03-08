@@ -13,9 +13,9 @@ Marzo viene con una sorpresa: en esta ocasión, tendremos a nuestro genial Franc
 preguntas que se nos ocurran un tema en el que pocas veces nos paramos a pensar pero que afecta enormemente nuestras vidas: el derecho y su filosofía.
 
 Nos reuniremos en **WeWork, Paseo de la Castellana 43, Madrid**, el día **19 de marzo** a las **18:30** para conversar sobre todo ello. 
-Como siempre, recordando que *esto no es una charla* y que el foco del evento sois vosotros. ¡Reserva la fecha en tu calendario!
-Muy pronto pondremos a vuestra disposición las entradas (gratuitas) para este evento.
+Como siempre, recordando que *esto no es una charla* y que el foco del evento sois vosotros. ¡Reserva la fecha en tu calendario y consigue ya tu 
+entrada gratuita para el evento!
 
-<!-- <a class="superboton" href="https://www.eventbrite.es/e/xxxxxxxx">Consigue tu entrada</a>
+<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-la-filosofia-del-derecho-58421480220">Consigue tu entrada</a>
 
-<img src="/img/carteles/paco.png" alt="EstoNoEsUnaCharla" style="width: 600px;"/> -->
+<img src="/img/carteles/paco.jpg" alt="EstoNoEsUnaCharla" style="width: 600px;"/>
