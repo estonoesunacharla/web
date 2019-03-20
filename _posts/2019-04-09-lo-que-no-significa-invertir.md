@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Lo que es y no es invertir 
+title: Lo que nunca nos atrevimos a preguntar sobre economía, ahorro e inversión.
 category: no-charlas
 tags: [ ]
 ---
