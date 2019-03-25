@@ -17,4 +17,4 @@ entrada gratuita para el evento!
 
 <a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-empieza-a-invertir-hoy-y-jubilate-millonario-59014467862">Consigue tu entrada</a>
 
-<!-- <img src="/img/carteles/paco.jpg" alt="EstoNoEsUnaCharla" style="width: 600px;"/> -->
+<img src="/img/carteles/carlos.jpg" alt="EstoNoEsUnaCharla" style="width: 600px;"/>

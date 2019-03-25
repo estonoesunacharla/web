@@ -15,9 +15,4 @@ este tema tan transversal pero en el que pocas veces nos paramos a pensar: el de
 La **no-charla** tuvo lugar en WeWork, Paseo de la Castellana 43, Madrid, el día 19 de marzo. Puedes ver el vídeo de la sesión aquí:
 
 <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/HgAwQv5DKc4?rel=0&amp;showinfo=0" frameborder="0"></iframe>
-
-<!-- 
-<a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-la-filosofia-del-derecho-58421480220">Consigue tu entrada</a>
-
-<img src="/img/carteles/paco.jpg" alt="EstoNoEsUnaCharla" style="width: 600px;"/>
- -->
+ 
