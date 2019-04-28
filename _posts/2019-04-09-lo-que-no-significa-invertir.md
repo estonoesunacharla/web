@@ -13,3 +13,5 @@ En esta no-charla, nuestro experto en estos temas, el economista **Carlos Galán
 Puedes ver el vídeo de la sesión aquí:
 
 <iframe style="display: block;margin: auto;" width="560px" height="315px" src="https://www.youtube.com/embed/ONg_LtGzqg4?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+
+Por cierto, Carlos tiene esta [web](https://carlosgalan.net/carlos-galan-rubio/) que os podría interesar para aprender más sobre este tema.
