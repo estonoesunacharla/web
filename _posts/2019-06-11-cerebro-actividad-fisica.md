@@ -17,4 +17,4 @@ Pincha abajo para reservar ya tu entrada gratuita:
  
 <a class="superboton" href="https://www.eventbrite.es/e/entradas-esto-no-es-una-charla-sobre-fortalecer-tu-cerebro-a-traves-del-ejercicio-fisico-62319880440">Consigue tu entrada</a>
 
-<img src="img/carteles/ENEUC_CEREBRO&DEPORTEWEB_page-0001.jpg" alt="EstoNoEsUnaCharla" style="width: 600px;"/>
+<img src="/img/carteles/ENEUC_CEREBRO&DEPORTEWEB_page-0001.png" alt="EstoNoEsUnaCharla" style="width: 600px;"/>
