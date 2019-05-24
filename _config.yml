@@ -165,9 +165,9 @@ syntax-highlight: True
 ############
 
 events:    
-  - image: "/img/events-square/blockchain.jpg"
-    date: "22 Mayo 2019"
-    description: "¿Y eso del BlockChain, qué es? Con Carlos Vivas"
+  - image: "/img/events-square/nerve-cell-2213009_1920.png"
+    date: "11 de junio 2019"
+    description: "Cerebro y deporte" Con Jaisalmer de Frutos"
   
 ###########
 # Contact #
