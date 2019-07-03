@@ -165,9 +165,9 @@ syntax-highlight: True
 ############
 
 events:    
-  - image: "img/events-square/nerve-cell-2213009_1920.png"
-    date: "11 de junio 2019"
-    description: "Cerebro y deporte" Con Jaisalmer de Frutos"
+  - image: "img/NOCHARLAVACUNAS.png"
+    date: "10 de julio 2019"
+    description: "Pasado, presente y futuro de las vacunas" Con Pedro Alsina Mier"
   
 ###########
 # Contact #
