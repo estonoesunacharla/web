@@ -167,7 +167,7 @@ syntax-highlight: True
 events:    
   - image:"img/NOCHARLAVACUNAS.png"
     date:"10 de julio 2019"
-    description: "Pasado, presente y futuro de las vacunas" Con Pedro Alsina Mier"
+    description:"Pasado, presente y futuro de las vacunas, con Pedro Alsina Mier"
   
 ###########
 # Contact #
